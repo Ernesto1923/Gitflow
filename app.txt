@@ -1,3 +1,4 @@
 v1.0 Proyecto base
 Funcionalidad login
 Version 1.0 lista
+Versión 1.0 estable
