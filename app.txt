@@ -4,4 +4,7 @@ Navegación responsive
 Contacto: santiagoernesto948@gmail.com
 Información de la empresa
 Contacto: santiagoernesto948@gmail.com
+v1.0 Proyecto base
+Funcionalidad login
+Version 1.0 lista
 Versión 1.0 estable
