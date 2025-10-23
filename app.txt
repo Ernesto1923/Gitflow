@@ -2,3 +2,4 @@ hola
 Interfaz de usuario mejorada
 Navegación responsive
 Información de la empresa
+Contacto: santiagoernesto948@gmail.com
