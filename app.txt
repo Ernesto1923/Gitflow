@@ -1,1 +1,2 @@
 hola
+Interfaz de usuario mejorada
